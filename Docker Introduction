@@ -1,0 +1,13 @@
+Container -A container is a lightweight, standalone, and executable software package that includes everything needed to run a piece of software—code, runtime, libraries, and system tools. 
+Container is very light weight in nature 
+
+Why container is light weight in nature?
+Ans- Because they do not have full OS ,they use the resources from base OS, or on which they are running.
+
+Common Container Tools:
+Docker – The most popular container platform.
+
+Podman – A Docker alternative, often used in Red Hat environments.
+
+Kubernetes – Orchestrates many containers across clusters of machines.
+
